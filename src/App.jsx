@@ -786,7 +786,7 @@ export default function App() {
                     TAJ PROPERTY
                   </h1>
                   <p className="text-xs lg:text-sm text-amber-600 -mt-1">
-                    Helping You Find Homes & Properties in Pan India
+                    Helping You Find Homes & Properties in Pan India - Delhi NCR
                   </p>
                 </div>
               </a>
