@@ -338,6 +338,12 @@ export default function App() {
           <span>Zakir Nagar</span>
           <span className="text-stone-500 hidden sm:inline">|</span>
           <span>Abul Fazal Enclave</span>
+          <span className="text-stone-500 hidden sm:inline">|</span>
+          <span>New Friends Colony</span>
+          <span className="text-stone-500 hidden sm:inline">|</span>
+          <span>Sarita Vihar</span>
+          <span className="text-stone-500 hidden sm:inline">|</span>
+          <span>Jasola</span>
         </div>
       </div>
     </section>
