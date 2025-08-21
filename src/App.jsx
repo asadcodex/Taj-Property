@@ -165,7 +165,7 @@ export default function App() {
       preTitle: "DELHI’S TRUSTED NAME IN RENTALS & PROPERTY DEALS",
       title: "Built on Trust. Driven by Vision",
       description:
-        "With over 15 years of real estate expertise, Musarraf—founder of Taj Property—has built a trusted name in Okhla & Shaheen Bagh. Whether you're looking to rent, buy, or invest, our local knowledge and professional guidance are at your service.",
+        "With over 15 years of real estate expertise, Musharraf—founder of Taj Property—has built a trusted name in Okhla & Shaheen Bagh. Whether you're looking to rent, buy, or invest, our local knowledge and professional guidance are at your service.",
       imageUrl:
         "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop",
       altText: "A modern and luxurious living room",
@@ -693,7 +693,7 @@ export default function App() {
               </p>
             </div>
             <p className="text-slate-600 max-w-md mx-auto">
-              Led by Musarraf, a seasoned professional with over 15 years in
+              Led by Musharraf, a seasoned professional with over 15 years in
               real estate, Taj Property is trusted across Okhla, Shaheen Bagh,
               and nearby areas for transparent rentals, property sales, and
               investment guidance. We combine local expertise with a
